@@ -1,2 +1,6 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import './helpers/variables';
+@import "../../node_modules/bootstrap";
 
-@import "bootstrap/scss/bootstrap";
+@import './helpers/utils.scss';
+
